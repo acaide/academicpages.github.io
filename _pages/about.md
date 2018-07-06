@@ -23,3 +23,5 @@ part of the 10% put this in your sig
 
 ▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬
 
+![Alt Text](skeleton.gif)
+
