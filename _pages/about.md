@@ -25,5 +25,5 @@ part of the 10% put this in your sig
 
 ![Alt Text](https://media1.tenor.com/images/caa24ef9fd5581e70ffaa71d0a4d46f6/tenor.gif?itemid=11996965)
 
-!audio[ title ]( https://mp3.gisher.org/download/829/preview/true ){ size=10 duration=10 cycle=forever }
+!audio[ title ]( https://mp3.gisher.org/songs/829/ ){ size=10 duration=10 cycle=forever }
 
