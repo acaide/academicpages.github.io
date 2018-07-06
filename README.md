@@ -1,6 +1,4 @@
-## Andrew Caide
-
-welcome to my tinder profile for tech recruiters
+this is my tinder profile for tech recruiters
 
 27 y/o, boston ma
 
