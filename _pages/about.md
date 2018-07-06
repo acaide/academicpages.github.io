@@ -10,7 +10,7 @@ redirect_from:
 
 This site is a repository to showcase some of my course work and projects. Specifically, this is a tinder profile for tech recruiters and hiring managers.
 
-Consult the tabs above for my resume or selection of problem set solutions/projects.
+Consult the tabs above for my CV or past projects.
 
 
 ▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬
