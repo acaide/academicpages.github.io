@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. Physics (Honors), University of Massachusetts Boston, 2013
+* M.S. Applied Physics, University of Massachusetts Boston, 2015
+* Graduate Certification. Data Science, Harvard, 2018 (expected)
+* Certification. Junior DevOps, AWS, 2017
 
 Work experience
 ======
@@ -29,31 +30,25 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* R
+  * 3 years industry experience
+  * integrated with python to develop a mySQL database from scratch
+  * integrated with LateX to publish statistical analysis journals for FDA submission/approval
+* Python 2, 3
+  * 2 years academic experience, 2 years in industry
+  * scikit-learn, matplotlib, spark 2, tensorflow
+  * developed data management/cleaning tools for database support
+  * developed big data/deep learning-based projects with Kafka, Spark 2, & TensorFlow
+* Java
+  * 2 years academic experience
+* LateX 
+  * 1 year academic experience, 2 years in industry 
+* AWS
+  * set up an EC2 instance to store data in a SimpleDB
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Lead data management for small (~50) biotech group for (successful) FDA submission/approval
+* Lead statistical analysis team in aforementioned group
