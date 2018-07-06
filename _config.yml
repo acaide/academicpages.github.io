@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Andrew Caide - Projects"
+title                    : "☆ Projects ☆"
 title_separator          : "-"
 name                     : &name "Andrew Caide"
-description              : &description "Junior Data Scientist, Bosotn MA."
+description              : &description "Novice Data Scientist, Bosotn MA. Big into bot detection."
 url                      : https://acaide.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "acaide/academicpages.github.io"
+repository               : "acaide/acaide.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
