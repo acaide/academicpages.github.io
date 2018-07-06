@@ -1,31 +1,51 @@
-A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+## Andrew Caide
 
-I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
+welcome to my tinder profile for tech recruiters
 
-### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
+27 y/o, boston ma
 
-# Instructions
+physics BS/MS, data science passion, I'm fascinated by bot/truth detection
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
 
-See more info at https://academicpages.github.io/
+## Real Work:
 
-## To run locally (not on GitHub Pages, to serve on your own computer)
+Presently: Statistical Analyst (<1 yr)
 
-1. Clone the repository and made updates as detailed above
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle clean` to clean up the directory (no need to run `--force`)
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+Previosly: Biostatistician (~2 yr)
 
-# Changelog -- bugfixes and enhancements
+2x : Systems Integration Engineer (~1 yr)
 
-There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
 
-To support this, all changes to the underlying code appear as a closed issue with the tag 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). Each issue thread includes a comment linking to the single commit or a diff across multiple commits, so those with forked repositories can easily identify what they need to patch.
+
+
+## Course Work:
+
+### CS 109A: Intro to Data Science: https://github.com/acaide/CS109
+Elementary data science course. The course focuses on the analysis of messy, real life data to perform predictions using statistical and machine learning methods. The material of the course is divided 3 modules. Each module will integrate the five key facets of an investigation using data:
+
+1 - data collection - data wrangling, cleaning, and sampling to get a suitable data set;
+
+2 - data management - accessing data quickly and reliably;
+
+3 - exploratory data analysis - generating hypotheses and building intuition;
+
+4 - prediction, statistical learning, and inference; and
+
+5 - communication - summarizing results through visualization, stories, and interpretable summaries. 
+
+
+
+### E-63: Big Data Analytics https://github.com/acaide/E-63
+The emphasis of this course is on mastering two most important big data technologies: Spark 2 and Deep Learning with TensorFlow. But more generally, this course was a survey aiming to familiarize students with the 'big data' technologies presently used in industry (hadoop, kafka, neo4j, casandra, spark, tensorflow, etc). Heavy emphasis on practical use/IT, cursory exploration on theory.
+
+
+
+▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬
+
+―••\~asuka over rei every day\~••―
+
+90% of teens smoke weed. if you're
+
+part of the 10% put this in your sig
+
+▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬
