@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-E-63: Big Data Analytics: https://github.com/acaide/E63
+E-63: Big Data Analytics 
+
+[Link to the Syllabus + Solutions](https://github.com/acaide/E63)
 
 The emphasis of this course is on mastering two most important big data technologies: Spark 2 and Deep Learning with TensorFlow. 
 More generally, this course was a survey aiming to familiarize students with the 'big data' technologies presently used in industry 
