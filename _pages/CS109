@@ -1,0 +1,28 @@
+---
+layout: archive
+title: "CS 109A - Data Science"
+permalink: /cs109/
+author_profile: true
+redirect_from:
+  - /datascience
+---
+
+{% include base_path %}
+
+CS 109A: Intro to Data Science: https://github.com/acaide/CS109
+
+This course serves as a rigorous introduction to data science. 
+The focus is on the analysis of messy, real life data to perform predictions using statistical and machine learning methods. 
+Material of the course is divided 3 modules, where each module will integrate the five key facets of an investigation using data:
+
+  # 1 - data collection - data wrangling, cleaning, and sampling to get a suitable data set;
+
+  # 2 - data management - accessing data quickly and reliably;
+
+  # 3 - exploratory data analysis - generating hypotheses and building intuition;
+
+  # 4 - prediction, statistical learning, and inference; and
+
+  # 5 - communication - summarizing results through visualization, stories, and interpretable summaries.
+  
+
