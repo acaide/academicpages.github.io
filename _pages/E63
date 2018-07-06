@@ -1,0 +1,19 @@
+---
+layout: archive
+title: "E63 - Big Data Analytics"
+permalink: /E63/
+author_profile: true
+redirect_from:
+  - /datascience
+---
+
+{% include base_path %}
+
+E-63: Big Data Analytics: https://github.com/acaide/E63
+
+The emphasis of this course is on mastering two most important big data technologies: Spark 2 and Deep Learning with TensorFlow. 
+More generally, this course was a survey aiming to familiarize students with the 'big data' technologies presently used in industry 
+(hadoop, kafka, neo4j, casandra, spark, tensorflow, etc). 
+
+Heavy emphasis on practical use/IT, cursory exploration on theory.
+
