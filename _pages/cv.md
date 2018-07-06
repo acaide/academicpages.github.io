@@ -18,15 +18,20 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* March 2018 - Current : Statistical Analyst
+  * Reputation Institute, Cambridge MA
+  * Duties included: Develop statistical analysis routines in Python + SPSS, perform sentiment analysis with NLP tools in python, support analytical groups with analysis. 
+  * Tools used: SPSS, Python
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* November 2016 - Feb 2018 : Biostatistician
+  * Roche Diagnostics Hematology, Boston MA
+  * Duties included: Leading statistical analysis projects, developing and implimenting data management protocols, routines, and algorithms. Successfully pushed analytical results through FDA submission. 
+  * Tools used: R, Python, LateX, mySQL
+
+* October 2015 - November 2016: Systems Integration Scientist
+  * Roche Diagnostics Hematology, Boston MA
+  * Duties included: supporting multiple teams with statistical analysis, providing documentation on results. 
+  * Tools used: R, LateX, Matlab
   
 Skills
 ======
