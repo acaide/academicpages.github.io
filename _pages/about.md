@@ -23,5 +23,5 @@ part of the 10% put this in your sig
 
 ▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬
 
-![Alt Text](images/skeleton.gif)
+![Alt Text](https://github.com/acaide/acaide.github.io/blob/master/images/skeleton.gif)
 
