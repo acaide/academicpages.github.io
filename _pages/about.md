@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This site is a repository to showcase some of my course work and projects. Specifically, this is a tinder profile for tech recruiters and hiring managers.
+This site is a repository to showcase some of my course work and projects. 
 
 Consult the tabs above for my CV or past projects.
 
